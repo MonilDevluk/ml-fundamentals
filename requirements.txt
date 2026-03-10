@@ -1,0 +1,9 @@
+# Core data stack
+numpy==2.2.3
+pandas==2.2.3
+matplotlib==3.10.1
+scikit-learn==1.6.1
+
+# Notebook
+jupyter==1.1.1
+ipykernel==6.29.5
